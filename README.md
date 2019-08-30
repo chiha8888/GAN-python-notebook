@@ -5,4 +5,4 @@
 * cycle GAN
 * WGAN
 
-.ipynb加載太慢可以用https://nbviewer.jupyter.org/  
+.ipynb加載太慢可以用[jupyter.org/](https://nbviewer.jupyter.org/){:target="_blank"}  

@@ -8,5 +8,7 @@
 馬<->斑馬
 * WGAN  
 生成指定的數字digit
+* Pix2Pix GAN(cycle GAN的一種)  
+生成google map的地圖
 
 .ipynb加載太慢可以用https://nbviewer.jupyter.org/   
